@@ -8,5 +8,12 @@ basta escolher oque deseja e fazer Download.
 Se preferir baixe o Diretorio Completo.
 
 Não me responsabilizo pelo uso inadequado das ferramentas aqui presentes.
+----------------------------------------
+*By Dragon White(Long-White)* 
+Long do chines Dragão, White do ingles Branco.
+----------------------------------------
 
-*By Dragon White(Long-White)*
+1- DESLIGAMENTO AGENDADO: Vá no agendador de tarefas do windows e cria uma nova tarefa basica,
+defina os dias que ela sera executada, quendo ele pedir AÇÃO deixe em Iniciar um Programa,
+ele Pedira Programa/Script, aponte para o scrip "Desligamento Agendado", e de Concluir.
+ATENÇÃO: ele matará programas abertos para o Desligamento.
