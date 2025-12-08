@@ -18,6 +18,8 @@ defina os dias que ela sera executada, quendo ele pedir AÇÃO deixe em Iniciar 
 ele Pedira Programa/Script, aponte para o scrip "Desligamento Agendado", e de Concluir.
 ATENÇÃO: ele matará programas abertos para o Desligamento.
 
+
+
 2 - PRN EDITE: O PRN Edite (ou PRN Editor) é uma ferramenta ou funcionalidade em softwares de contabilidade/fiscais, como os da Soften Sistemas, que serve para editar e corrigir registros em arquivos fiscais (como os do Sintegra e SPED), permitindo identificar campos específicos, como a CST (Código de Situação Tributária), e ajustar informações inválidas ou incorretas, garantindo a conformidade com a legislação fiscal e a qualidade das informações contábeis. 
 Correção de Dados: Ajustar erros em lançamentos, como a troca de uma CST inválida por uma válida.
 
