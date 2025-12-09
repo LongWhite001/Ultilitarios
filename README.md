@@ -28,3 +28,6 @@ Edição de Registros: Manipular detalhes em arquivos como o SPED (Sistema Públ
 Validação: Ajudar a identificar e corrigir inconsistências nos dados fiscais antes do envio aos órgãos competentes.
 
 Facilidade: Oferecer uma interface que facilita a visualização e o ajuste de cada campo de um registro fiscal. 
+
+3 - ZIP PASSWORD CRACKER: Script Powershell simples para quebrar ou Revelar senhas de Arquivos .zip .rar .7z. 
+Ele usa uma wordlist, sinta-se a vontade para personalizar a wordlist do seu gosto e modo.
