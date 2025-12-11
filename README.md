@@ -31,3 +31,9 @@ Facilidade: Oferecer uma interface que facilita a visualização e o ajuste de c
 
 3 - ZIP PASSWORD CRACKER: Script Powershell simples para quebrar ou Revelar senhas de Arquivos .zip .rar .7z. 
 Ele usa uma wordlist, sinta-se a vontade para personalizar a wordlist do seu gosto e modo.
+
+4 - AUTOMATIZAR INSTALAÇÃO: A Automatizacao do Windows Permite que o Usuario tenha
+echo uma melhor experiencia com o Windows, e que ele funcione com
+sua melhor performace.
+DISPONIVEL DO WINDOWS 7 A 10
+(O do Windows 11 Não é o mesmo, para windows 11 ou posteriores baixe o do Windows 11.)
